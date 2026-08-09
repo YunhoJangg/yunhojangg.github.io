@@ -5,6 +5,8 @@ description: 대한민국의 한 컴퓨터공학과 학생이 코딩과 취미 �
 global_tags: computer cs cse computerscience computerengineering korea korean coding student
 copyright: © Yunho Jang 2026
 
+theme: jekyll-theme-simplex
+
 sass:
     style: compressed
 
