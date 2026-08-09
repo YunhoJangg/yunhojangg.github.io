@@ -28,6 +28,10 @@
             &__img{
                 filter: var(--c-headerImageFilter);
                 height: 4rem;
+
+                @include for-size('tablet'){
+                    height: 2.5rem;
+                }
             }
         }
     }
