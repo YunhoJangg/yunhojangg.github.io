@@ -1,5 +1,4 @@
 ---
-layout: home
 ---
 ## 장윤호 (Jang Yunho, 張允豪) | 💮 KNU CSE 25
 
