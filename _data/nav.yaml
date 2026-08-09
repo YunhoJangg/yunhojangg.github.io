@@ -16,6 +16,6 @@
   url: category/music.html
   hue: "var(--c-themeHueBlue)"
 
-- title: Life
-  url: category/life.html
+- title: Story
+  url: category/story.html
   hue: "var(--c-themeHueBlue)"
