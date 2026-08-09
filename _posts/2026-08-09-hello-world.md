@@ -2,7 +2,7 @@
 layout: post
 category: [coding]
 title: "Hello World!"
-author: Yunho Jang
+author: Yunho
 og_description: "test."
 ---
 
