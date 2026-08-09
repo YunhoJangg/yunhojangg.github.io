@@ -27,10 +27,10 @@
             }
             &__img{
                 filter: var(--c-headerImageFilter);
-                height: 4rem;
+                height: 8rem;
 
                 @include for-size('tablet'){
-                    height: 2.5rem;
+                    height: 4rem;
                 }
             }
         }
