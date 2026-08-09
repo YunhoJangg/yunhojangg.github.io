@@ -4,6 +4,7 @@ favicon: /assets/favicon.ico
 description: 대한민국의 한 컴퓨터공학과 학생이 코딩과 취미 등의 이야기를 하는 공간.
 global_tags: computer cs cse computerscience computerengineering korea korean coding student
 copyright: © Yunho Jang 2026
+timezone: Asia/Seoul
 
 sass:
     style: compressed
