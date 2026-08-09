@@ -21,3 +21,9 @@ defaults:
       type: category
     values:
       layout: "category"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
