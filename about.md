@@ -3,7 +3,26 @@ layout: page
 title: About
 permalink: /about/
 ---
-<style> main.page, main.page * { text-align: left !important; } </style>
+<style>
+main.page {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+main.page h1,
+main.page h2,
+main.page h3,
+main.page h4,
+main.page p,
+main.page ul,
+main.page ol,
+main.page li {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+</style>
 
 ## 장윤호 (Jang Yunho, 張允豪) | 💮 KNU CSE 25
 
