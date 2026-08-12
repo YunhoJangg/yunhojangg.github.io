@@ -20,6 +20,6 @@
   url: category/story.html
   hue: "var(--c-themeHueBlue)"
 
-- title: About
+- title: About Me
   url: about/
   hue: "var(--c-themeHueBlue)"
